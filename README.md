@@ -1,3 +1,0 @@
-# Shure
-
-Shure BQ prep
